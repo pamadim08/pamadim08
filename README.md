@@ -1,6 +1,6 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007355&height=200&section=header&text=Pimmada%20Saknava&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFDFD3&secondaryColor=E0BBE4&height=200&section=header&text=Pimmada%20Saknava&fontSize=50&fontColor=4A4A4A&fontAlignY=45&animation=fadeIn" alt="Soft Wave Cute Banner" />
 </p>
 
 <h1 align="center">Hi, I’m Pimmada Saknava <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>

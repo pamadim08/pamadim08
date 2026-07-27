@@ -1,6 +1,6 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFDFD3&secondaryColor=E0BBE4&height=200&section=header&text=Pimmada%20Saknava&fontSize=50&fontColor=4A4A4A&fontAlignY=45&animation=fadeIn" alt="Soft Wave Cute Banner" />
+  <img src="https://image.api.playstation.com/vulcan/ap/rnd/202310/0214/56382173b2c650e41b98b98b1784f938d8f58b5e6488346e.png?w=1920&h=1080" alt="Cat Cafe Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I’m Pimmada Saknava <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>

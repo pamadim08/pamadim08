@@ -1,16 +1,72 @@
-## Hi there 👋
+<!-- Banner / Cover -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007355&height=200&section=header&text=Pimmada%20Saknava&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Header Banner" />
+</p>
 
-<!--
-**pamadim08/pamadim08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I’m Pimmada Saknava <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong>Backend & Java Developer Aspirant • Software Testing & Automation Enthusiast</strong><br/>
+  <em>“Building robust, scalable backends and seamless web experiences.”</em>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/pamadim08"><img src="https://img.shields.io/github/followers/pamadim08?style=social" alt="GitHub Followers"></a>
+</p>
+
+---
+
+## 🚀 About Me
+- 🎓 **Education:** Final-year Computer Science / IT Student
+- 💼 **Goal:** Seeking a **Backend / Java Developer Internship**
+- 🌱 I’m currently diving deep into **Spring Boot Security, Microservices Architecture & Micro-services Integration**
+- 🛠 Daily driver stack: **Java, Spring Boot, MySQL & React**
+- 🧪 Automated Testing Interest: **Robot Framework & Playwright**
+
+---
+
+## 🧰 Tech Stack & Tools
+
+<div align="center">
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Backend & Database** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Frontend & UI/UX** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
+| **Testing & Automation**| ![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) |
+| **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+| Project | Key Tech Stack | Highlights | Links |
+| :--- | :--- | :--- | :--- |
+| **Chiang Mai Wellness** | Spring Boot · React · MySQL | Tourism route & location management system with interactive map integration | [Repo](https://github.com/pamadim08) |
+| **Audition Management System** | Java · MySQL · React | Candidate screening & committee evaluation platform | [Repo](https://github.com/pamadim08) |
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pamadim08&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamadim08&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🤝 Let’s Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=pamadim08&style=flat-square&color=007355" alt="profile views"/>
+
+</div>

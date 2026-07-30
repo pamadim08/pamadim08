@@ -45,7 +45,7 @@
 | Project | Key Tech Stack | Highlights | Links |
 | :--- | :--- | :--- | :--- |
 | **Chiang Mai Wellness** | Spring Boot · React · MySQL | Tourism route & location management system with interactive map integration | [wellness](https://github.com/pamadim08/projectwellness) |
-| **Audition Management System** | Java · MySQL · React | Candidate screening & committee evaluation platform | [Repo](https://github.com/pamadim08) |
+| **Rent Shop** |  Spring Boot · MySQL  | Product rental & inventory management system with automated order tracking| [RentShop](https://github.com/pamadim08/RentShop) |
 
 ---
 

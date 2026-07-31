@@ -1,6 +1,6 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=87CEEB&height=200&section=header&text=Pimmada%20Saknava&fontSize=60&fontColor=FFFFE0&fontAlignY=50&animation=twinkling&desc=Backend%20Developer%20Aspirant&descSize=20&descColor=FFFFE0&descAlignY=75" alt="Playful Bubble Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=87CEEB&height=200&section=header&text=Pimmada%20Saknava&fontSize=60&fontColor=FFFFE0&fontAlignY=50&animation=twinkling&desc=Backend%20Developer%20&descSize=20&descColor=FFFFE0&descAlignY=75" alt="Playful Bubble Banner" />
 </p>
 
 <h1 align="center">Hi, I’m Pimmada Saknava <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>

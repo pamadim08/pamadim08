@@ -17,14 +17,12 @@
 ---
 
 ## 🚀 About Me
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=87CEEB&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!+✨;Backend+%26+Automation+Tester;Turning+logic+into+reliable+software." alt="Typing SVG" />
-</p>
-- 🎓 **Education:** Final-year Computer Science / IT Student
-- 💼 **Goal:** Seeking a **Backend / Java Developer Internship**
-- 🌱 I’m currently diving deep into **Spring Boot Security, Microservices Architecture & Micro-services Integration**
-- 🛠 Daily driver stack: **Java, Spring Boot, MySQL & React**
-- 🧪 Automated Testing Interest: **Robot Framework**
+- 🎓 **Education:** 4th-year Information Technology Student at **Maejo University**
+- 💼 **Goal:** Seeking a **Backend Developer Internship / Co-op**
+- 🌱 Currently diving deep into **Spring Boot, RESTful APIs, Database Design & Automated Testing**
+- 🛠️ Daily driver stack: **Java, Spring Boot, MySQL, PostgreSQL, Supabase , React**
+- 🧪 Testing & Quality Assurance: **Robot Framework (Browser Library)**
+- 💡 Experience: **Teaching Assistant (TA) & AI Workshop Speaker**
 
 ---
 
